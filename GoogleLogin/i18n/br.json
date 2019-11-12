@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Y-M D",
+			"Fohanno",
+			"Macofe",
+			"Fulup"
+		]
+	},
+	"googlelogin": "Kevreañ gant Google",
+	"googlelogin-manage-dismiss": "Disteurel",
+	"googlelogin-generic-error": "Hopopop, ur fazi a oa. Distroit, mar plij, hag esaeit en-dro. Kemennadenn : $1",
+	"googlelogin-googleuser": "Implijer Google",
+	"googlelogin-prefs-status": "Statud GoogleLogin :"
+}
